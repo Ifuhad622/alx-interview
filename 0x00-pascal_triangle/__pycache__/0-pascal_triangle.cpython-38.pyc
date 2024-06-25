@@ -1,0 +1,8 @@
+U 
+&#x0;&#x0;&#x0;&#x0;�&f�&#x0;&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;@&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;d&#x0;Z&#x0;dd�&#x0;ZdS&#x0;)z
+0. Pascal's Triangle
+c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s~&#x0;&#x0;&#x0;t&#x0;|&#x0;t�r|&#x0;dkrg&#x0;S&#x0;dgg}td|&#x0;�D&#x0;]P}dg}|d&#x0;}td|�D&#x0;]}|�||d&#x0;&#x0;||&#x0;&#x0;�&#x0;qD|�d�&#x0;|�|�&#x0;q(|S&#x0;)u}&#x0;&#x0;&#x0;Create function def pascal_triangle(n): that returns list of lists
+    of integers representing Pascal’s triangle of n
+    �&#x0;&#x0;&#x0;&#x0;�&#x0;&#x0;&#x0;�����)�
+isinstance�int�range�append)�n�triangle�i�rowZprev_row�j�&#x0;r &#x0;&#x0;&#x0;�8/alx-interview/0x00-pascal_triangle/0-pascal_triangle.py�pascal_triangle&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;&#x0;
+r&#x0;&#x0;&#x0;N)�__doc__r&#x0;&#x0;&#x0;r &#x0;&#x0;&#x0;r &#x0;&#x0;&#x0;r &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�<module>&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;
