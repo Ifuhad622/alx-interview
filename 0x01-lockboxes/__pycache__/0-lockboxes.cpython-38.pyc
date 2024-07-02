@@ -1,0 +1,13 @@
+U 
+&#x0;&#x0;&#x0;&#x0;jFf�&#x0;&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;@&#x0;&#x0;&#x0;s&&#x0;&#x0;&#x0;d&#x0;Z&#x0;dd�&#x0;Zdd�&#x0;Zedkr"e�&#x0;&#x0;dS&#x0;)z#Module solves the lock boxes puzzlec&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s&#x0;&#x0;|&#x0;�&#x0;�&#x0;D&#x0;],\}}|�d�dkrd|d<&#x0;|�d�&#x0;&#x0;S&#x0;qdS&#x0;dS&#x0;i&#x0;}t|�dkr`dtd&#x0;d        �|d<&#x0;t|�}|r�|D&#x0;]Z}z8|�|�r�|�|��d�dkr�W&#x0;qpdt|&#x0;d        �||<&#x0;W&#x0;qp&#x0;ttfk
+r�&#x0;&#x0;&#x0;Y&#x0;qpY&#x0;qpX&#x0;qpqBdd
+d�&#x0;|��&#x0;D&#x0;�kr�qBqBt|�tt�k�r&#x0;�qqBdS&#x0;qBt|�tt�kS&#x0;) z�Looks for the next opened box
+    Args:
+        opened_boxes (dict): Dictionary which contains boxes already opened
+    Returns:
+        list: List with the keys contained in the opened box
+    �statusZopenedzopened/checked�keysN�&#x0;&#x0;&#x0;T�&#x0;&#x0;&#x0;&#x0;)r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;S&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;g&#x0;|&#x0;]}|�&#x0;d&#x0;��qS&#x0;)r&#x0;&#x0;&#x0;)�get)�.0�box�&#x0;r&#x0;&#x0;&#x0;�,/alx-interview/0x01-lockboxes/0-lockboxes.py�
+<listcomp>1&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;&#x0;&#x0;z(look_next_opened_box.<locals>.<listcomp>F)�itemsr&#x0;&#x0;&#x0;�len�boxes�look_next_opened_box�KeyError�
+IndexError�values)Zopened_boxes�indexr&#x0;&#x0;&#x0;Zauxr&#x0;&#x0;&#x0;�keyr&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r        &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;s>&#x0;&#x0;&#x0;&#x0;
+&#x0;�
+��r&#x0;&#x0;&#x0;c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;t&#x0;g&#x0;g�&#x0;dS&#x0;)zEntry pointN)�canUnlockAllr&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r        &#x0;&#x0;&#x0;�main;&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�__main__N)�__doc__r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�__name__r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r        &#x0;&#x0;&#x0;�<module>&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;6
