@@ -3,7 +3,11 @@ Algorithm
 Python
  Weight: 1
  Project will start Jul 22, 2024 3:00 AM, must end by Jul 26, 2024 3:00 AM
+<<<<<<< HEAD
  Checker was released at Jul 23, 2024 3:00 AM
+=======
+ Checker will be released at Jul 23, 2024 3:00 AM
+>>>>>>> 7555156550fad813e69b50b5f44600803634fae3
  An auto review will be launched at the deadline
 For the “0x04. UTF-8 Validation” project, you will need to apply your knowledge in bitwise operations, understanding of the UTF-8 encoding scheme, and Python programming skills to validate whether a given dataset represents a valid UTF-8 encoding. Here’s a list of concepts and resources that will be helpful:
 
@@ -82,5 +86,8 @@ Repo:
 GitHub repository: alx-interview
 Directory: 0x04-utf8_validation
 File: 0-validate_utf8.py
+<<<<<<< HEAD
  
+=======
+>>>>>>> 7555156550fad813e69b50b5f44600803634fae3
 
