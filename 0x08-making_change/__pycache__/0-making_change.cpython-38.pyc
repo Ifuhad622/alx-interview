@@ -1,0 +1,10 @@
+U 
+&#x0;&#x0;&#x0;&#x0;�rfv&#x0;&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;@&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;d&#x0;Z&#x0;dd�&#x0;ZdS&#x0;)zTask 0: Change making module
+c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;st&#x0;&#x0;&#x0;|dkrdS&#x0;|}d}d}t&#x0;|&#x0;dd�}t|&#x0;�}|dkrp||kr@dS&#x0;|||&#x0;&#x0;dkrf|||&#x0;8&#x0;}|d7&#x0;}q,|d7&#x0;}q,|S&#x0;)z�Determines the fewest number of coins needed to meet a given
+    amount total when given a pile of coins of different values.
+    �&#x0;&#x0;&#x0;&#x0;T)�reverse������&#x0;&#x0;&#x0;)�sorted�len)ZcoinsZtotalZremZcoins_countZcoin_idxZsorted_coins�n�&#x0;r&#x0;&#x0;&#x0;�4/alx-interview/0x08-making_change/0-making_change.py�
+makeChange&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;&#x0;
+
+r
+&#x0;&#x0;&#x0;N)�__doc__r
+&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r        &#x0;&#x0;&#x0;�<module>&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;
