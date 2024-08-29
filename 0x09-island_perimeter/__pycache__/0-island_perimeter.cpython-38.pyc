@@ -1,0 +1,9 @@
+U 
+&#x0;&#x0;&#x0;&#x0;3�yfN&#x0;&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;@&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;d&#x0;Z&#x0;dd�&#x0;ZdS&#x0;)z#Island perimeter computing module.
+c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s&#x0;&#x0;d}t&#x0;|&#x0;�tkrdS&#x0;t|&#x0;�}t|&#x0;�D&#x0;]�\}}t|�}t|�D&#x0;]�\}}|dkrNq<|dkp|t|&#x0;|d&#x0;&#x0;�|ko||&#x0;|d&#x0;&#x0;|&#x0;dk||d&#x0;kp�||d&#x0;ko�||d&#x0;&#x0;dk||d&#x0;kp�t|&#x0;|d&#x0;&#x0;�|ko�|&#x0;|d&#x0;&#x0;|&#x0;dk|dkp�||d&#x0;&#x0;dkf}|t|�7&#x0;}q<q$|S&#x0;)z�
+    Computes the perimeter (p) of an island with no lakes.
+    Args:
+        grid: 2d list of integers containing 0(water) or 1(land)
+    Return:
+        the perimeter (p) of the island
+    �&#x0;&#x0;&#x0;&#x0;�&#x0;&#x0;&#x0;)�type�list�len�        enumerate�sum)        �grid�p�n�iZrow�m�jZcellZedges�&#x0;r&#x0;&#x0;&#x0;�:/alx-interview/0x09-island_perimeter/0-island_perimeter.py�island_perimeter&#x0;&#x0;&#x0;s &#x0;&#x0;&#x0;&#x0;.&2�r&#x0;&#x0;&#x0;N)�__doc__r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�<module>&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;
